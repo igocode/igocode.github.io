@@ -138,6 +138,7 @@ class Instagram extends React.Component {
         
         return (
             <div className={background}>
+                <span></span>
                 { 
                    this.state.activeImgs.map((image) => {
                        let props = {
