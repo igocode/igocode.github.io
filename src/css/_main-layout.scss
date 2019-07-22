@@ -47,13 +47,13 @@
         max-width: 900px;
         margin-bottom: 50px;
 
+        @include for-tablet-landscape-down {
+            padding: 0 50px;
+        }
+
         @include for-phone-only {
             padding: 0 20px;
             margin-bottom: 30px;
-        }
-
-        @include for-tablet-landscape-down {
-            padding: 0 50px;
         }
     }
 }
@@ -131,9 +131,18 @@
         background-color: rgba($white, 0.2);
         transition: background 0.3s, color 0.3s; 
 
+        a{
+            color: $white;
+            transition: color 0.3s; 
+        }
+
         &:hover {
             background: $white;
             color: $black;
+
+            a{
+                color: $black;
+            }
         }
     }
 }

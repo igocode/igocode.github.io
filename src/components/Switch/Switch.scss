@@ -8,6 +8,10 @@
     width: 45px;
     height: 22px;
     z-index: 4;
+    
+    @include for-phone-only {
+      display: none;
+    }
   }
   
   /* Hide default HTML checkbox */
