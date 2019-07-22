@@ -11,7 +11,7 @@ class Intro extends Component {
           <div className="intro-content">
             <div>
               <h1>Leigh Igoe - Developer</h1>
-              <h2>A <span>dev</span> with a background in design and a growing passion for <span>code</span>.</h2>
+              <h2>A <span>dev</span> with a background in design and an ever growing passion for <span>code</span>.</h2>
               <div className="skills-list">
                 <ul>
                   <li>HTML5 </li>
@@ -19,7 +19,7 @@ class Intro extends Component {
                   <li>Javascript (ES5/ES6)</li>
                   <li>React</li>
                   <li>Angular</li>
-                  <li>Gsap</li>
+                  <li>Jest/Enzyme</li>
                   <li>JQuery</li>
                   <li>PHP</li>
                   <li>Wordpress</li>

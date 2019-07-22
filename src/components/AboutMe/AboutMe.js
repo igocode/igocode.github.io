@@ -17,7 +17,7 @@ class AboutMe extends Component {
           <div className="about-me">
             <div>
               <h1>Leigh Igoe - Developer</h1>
-              <h2>Me in a little more detail</h2>
+              <h2>A little more about me</h2>
               <p>I am a driven developer with an eagerness to learn new skills whilst also refining my core programming knowledge. I’ve had the opportunity to work closely with developers either as inhouse or collaborating with client-based teams remotely. I am looking to work within an agile focused team of developers who strive to produce performant and scalable websites/applications.  </p>
               <div className="about-me__details">
               <h3 className="about-me__header-divide">Core skills</h3>
