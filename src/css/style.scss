@@ -219,6 +219,16 @@ img {
         background: $yellow;
         color: $black;
     }
+
+    &--contrast {
+        background: $black;
+        color: $white;
+        
+        &:hover {
+            background: $white;
+            color: $black;
+        }
+    }
 }
 
 @import "_main-layout";

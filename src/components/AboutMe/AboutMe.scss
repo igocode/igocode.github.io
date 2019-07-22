@@ -13,10 +13,6 @@
     animation-fill-mode: forwards;
     animation-iteration-count:1; 
 
-    @include for-phone-only {
-        display: none;
-    }
-
     span {
         color: darken($yellow, 25%);
     }
