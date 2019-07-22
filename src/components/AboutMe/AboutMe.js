@@ -40,7 +40,7 @@ Illustrator and InDesign.</li>
               <ul>
                 <li>Broaden my skills using React alongside the use of ES6.</li>
                 <li>Building my knowledge and understanding of CI/CD pipelines.</li>
-                <li>Learn and implement tests for my work using Jest and Enzyme.</li>
+                <li>Learn and implement tests using Jest and Enzyme.</li>
               </ul>
               </div>
 
