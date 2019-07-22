@@ -38,8 +38,8 @@ Illustrator and InDesign.</li>
               </ul>
               <h3 className="about-me__header-divide">Areas i wish to develop</h3>
               <ul>
-                <li>Broaden my skills using React alongside the use of ES6.</li>
-                <li>Building my knowledge and understanding of CI/CD pipelines.</li>
+                <li>Broaden my skills using React.</li>
+                <li>Build my knowledge and understanding of CI/CD pipelines.</li>
                 <li>Learn and implement tests using Jest and Enzyme.</li>
               </ul>
               </div>
