@@ -11,7 +11,7 @@ class Intro extends Component {
           <div className="intro-content">
             <div>
               <h1>Leigh Igoe - Developer</h1>
-              <h2>A developer that always learning, problem solving and having fun along the way.</h2>
+              <h2>A developer that's always learning, problem solving and having fun along the way.</h2>
               <div className="skills-list">
                 <ul>
                   <li>HTML5 </li>
