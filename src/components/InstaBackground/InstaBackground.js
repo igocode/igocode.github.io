@@ -41,7 +41,7 @@ class Instagram extends React.Component {
                     return { 
                         url: image.images.standard_resolution.url,
                         id: image.id,
-                        caption: this.characterLimit(image.caption.text),
+                        caption: image.caption !== null ? this.characterLimit(image.caption.text) : '',
                         created: image.created_time,
                         prevImg: ''
                     }
